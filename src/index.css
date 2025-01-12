@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ... */
+:root{
+  --accent-color-hsl: 132, 22%, 59%;
+  --secondary-color-hsl: 200, 22%, 22%;
+  --primary-color-hsl: 150, 21%, 82%;
+  --third-color-hsl: 132, 22%, 38%;
+  --fourth-color-hsl: 165, 22%, 26%;
+  --white-hsl: 0, 0%, 100%;
+  --black-hsl: 0, 0%, 0%;
+  --accent-color: #84a98c;
+  --secondary-color: #2f3e46;
+  --primary-color: #cad2c5;
+  --third-color: #52796f;
+  --fourth-color: #354f52;
+}
