@@ -2,8 +2,8 @@
 
 This is a simple Tic-Tac-Toe game built with React and TypeScript. The game allows you to play against another player or against the CPU.
 
-Demo : https://tic-tac-2zevvtmrl-rishabh8ns-projects.vercel.app
-Github Repo : https://github.com/rishabh8n/tic-tac-toe
+- Demo : https://tic-tac-2zevvtmrl-rishabh8ns-projects.vercel.app
+- Github Repo : https://github.com/rishabh8n/tic-tac-toe
 
 ## Features
 
